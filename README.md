@@ -1,4 +1,4 @@
-# LAB-EXCEL-DATA-Representation
+# LAB-Excel-DATA-Representation
 
 # Excel Data Visualization Lab
 
