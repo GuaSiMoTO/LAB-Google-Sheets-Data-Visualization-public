@@ -70,7 +70,16 @@ Compare the monthly sales of different stores.
 2. Insert a column chart.
 3. Customize the chart titles and add different colors for each store.
 
-## Iteration 3: Line Chart
+## Iteration 3: Hystogram
+
+Analyze the distribution of customer satisfaction for each store.
+
+1. Select the Customer Satisfaction (%) data for each store individually.
+2. Insert a histogram for each store.
+3. Customize the titles and adjust the bin sizes for better clarity.
+4. Compare the distribution of customer satisfaction across stores.
+
+## Iteration 4: Line Chart
 
 Analyze the trend of sales over the months for each store.
 
@@ -82,7 +91,7 @@ Analyze the trend of sales over the months for each store.
 6. Make the legend positioned on the right, add black borders, change the font to bold and also make the font size increase to 12
 
 
-## Iteration 4: Pie Chart
+## Iteration 5: Pie Chart
 
 Show the proportion of total annual sales contributed by each store.
 
@@ -91,17 +100,17 @@ Show the proportion of total annual sales contributed by each store.
 3. Insert a pie chart.
 4. Customize with titles and adjust colors to simulate dark mode.
 
-## Iteration 5: Scatter Plot
+## Iteration 6: Scatter Plot
 
 You are a data analyst for a retail chain with stores in multiple locations. Your task is to analyze the sales performance of the stores over the past year and highlight key data points using conditional formatting in Excel. This will help the management easily identify trends and anomalies.
 
-### 5.1 Do two conditional formating for the top 10% and the Bottom  10% Sales
+### 6.1 Do two conditional formating for the top 10% and the Bottom  10% Sales
 
 
-### 5.2 find the Above and below 10% average of Satisfaction
+### 6.2 find the Above and below 10% average of Satisfaction
 
 
-### 5.3 Insert a Scatter Plot
+### 6.3 Insert a Scatter Plot
 
 Analyze the relationship between advertising spend and sales, with bubble size representing the number of employees.
 
