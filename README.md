@@ -84,7 +84,7 @@ Analyze the distribution of customer satisfaction for each store.
 Analyze the trend of sales over the months for each store.
 
 1. Apply advanced filter for the stores using sliders for better data visualisation. 
-2. Select the data range for Month and Sales ($).
+2. Select the data range for Store and Month.
 3. Insert a line chart.
 4. Add lines for each store to the chart.
 5. Customize with descriptive axis labels
