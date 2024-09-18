@@ -98,7 +98,7 @@ Show the proportion of total annual sales contributed by each store.
 1. Calculate the total annual sales for each store.
 2. Select the data range for Store and Total Sales ($).
 3. Insert a pie chart.
-4. Customize with titles and adjust colors to simulate dark mode.
+
 
 ## Iteration 6: Scatter Plot
 
