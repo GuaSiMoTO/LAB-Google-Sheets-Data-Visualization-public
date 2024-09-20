@@ -112,9 +112,9 @@ You are a data analyst for a retail chain with stores in multiple locations. You
 
 ### 6.3 Insert a Scatter Plot
 
-Analyze the relationship between advertising spend and sales, with bubble size representing the number of employees.
+Analyze the relationship between advertising spend and sales.
 
-1. Select the data range for Advertising Spend ($), Sales ($), and Employees.
+1. Select the data range for Advertising Spend ($), Sales ($).
 2. Insert a scatter plot with bubbles.
 3. Create the trend line of sales
 
