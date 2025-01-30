@@ -1,19 +1,17 @@
 ![](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
 
-# LAB-Excel-Data-Representation
-
-# Excel Data Visualization Lab
+# LAB-Google-Sheets-Data-Representation
 
 ## Introduction
 
-Today you have learned various techniques in data visualization using Excel, so you are ready to solve a lot of new problems. This lab will have several exercises that increase in difficulty.
-You will use the provided data sets in each iteration and follow the instructions to create and customize charts. Make sure to save your work in an Excel file and export as pdf.
+Today you have learned various techniques in data visualization using Google-Sheets, so you are ready to solve a lot of new problems. This lab will have several exercises that increase in difficulty.
+You will use the provided data sets in each iteration and follow the instructions to create and customize charts. Make sure to export as pdf.
 
 Ready?
 
 ## Requirements
-1. Have an excel account.
-2. Basic understanding of creating and formatting charts in Excel.
+1. Have an driveaccount.
+2. Basic understanding of creating and formatting charts in drive.
 3. Clone this repo into your code/labs folder
 
 ## RULES
@@ -28,7 +26,7 @@ Ready?
 1.1 For the first two columns of the table we are going to create, add validations for the text type fields, so that you cannot enter numbers. 
 
 
-1.2 Compile the data into an Excel sheet with the following structure:
+1.2 Compile the data into an Google-Sheets sheet with the following structure:
 
 
 | Month | Store  | Sales ($) | Employees | Advertising Spend ($) | Customer Satisfaction (%) |
@@ -102,7 +100,7 @@ Show the proportion of total annual sales contributed by each store.
 
 ## Iteration 6: Scatter Plot
 
-You are a data analyst for a retail chain with stores in multiple locations. Your task is to analyze the sales performance of the stores over the past year and highlight key data points using conditional formatting in Excel. This will help the management easily identify trends and anomalies.
+You are a data analyst for a retail chain with stores in multiple locations. Your task is to analyze the sales performance of the stores over the past year and highlight key data points using conditional formatting in Google-Sheets. This will help the management easily identify trends and anomalies.
 
 ### 6.1 Do two conditional formating for the top 10% and the Bottom  10% Sales
 
@@ -126,10 +124,4 @@ Analyze the relationship between advertising spend and sales.
 ## How to Submit
 
 To submit this LAB, we upload the file to our forked repository.
-
-## Additional Resources
-
-- [Excel documentation](https://support.microsoft.com/excel)
-- [Conditional Formatting in Excel](https://support.microsoft.com/conditional-formatting-in-excel)
-- [Excel Charts](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)
 
