@@ -125,4 +125,4 @@ Analyze the relationship between advertising spend and sales.
 
 To submit this LAB, share your spreadsheet with your instructors and past the sharing link below:
 
--  Share link: <your link>
+-  Share link: https://docs.google.com/spreadsheets/d/18jj4_bBqNwmgilwF7nZA8ar-9fVvQuYBK5YhnrQlP5s/edit?usp=sharing
